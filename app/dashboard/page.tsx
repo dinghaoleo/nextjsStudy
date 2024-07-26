@@ -1,7 +1,7 @@
 export default function DashboardPage() {
   return (
     <div>
-      <p>Dashboard Page</p>
+      <p>Welcome to Dashboard Page!</p>
     </div>
   );
 }
